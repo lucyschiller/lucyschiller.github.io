@@ -8,4 +8,4 @@ I am a Public Relations major with a minor in Computer and Information Technolog
 - [Project 2](https://uo-cit.github.io/project-2-lucyschiller/) (learned about APIs)
 - Project 3 (learned about web APIs, used jQuery and NodeJS)
 - Project 4
-- [Project 5] (https://uo-cit.github.io/project-5-lucyschiller/) 
+- [Project 5](https://uo-cit.github.io/project-5-lucyschiller/) 
